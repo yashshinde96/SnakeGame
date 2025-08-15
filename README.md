@@ -31,7 +31,7 @@ Make sure you have Python 3.x installed, then:
 
 ---  
 
-3. ▶ How to Play<br>
+## ▶ How to Play<br>
 Run the game:<br><br>
 
 python neon_snake.py<br><br>
@@ -46,7 +46,7 @@ C – Restart game (after losing)<br>
 
 ---
 
-4.💡 Future Ideas<br>
+##💡 Future Ideas<br>
 Smooth RGB animation effect for the snake.<br>
 High score tracking.<br>
 Sound effects and background music.<br>
@@ -54,18 +54,18 @@ Different difficulty levels.
 
 ---
 
-5. 🛠 Tech Stack<br>
+## 🛠 Tech Stack<br>
 Python 3<br>
 Pygame
 
 ---
 
-7. 📜 License<br>
+## 📜 License<br>
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
-8. 🙌 Acknowledgments<br>
+## 🙌 Acknowledgments<br>
 Inspired by the original Snake game.<br>
 Thanks to the Pygame community for making game dev in Python so much fun!
 
