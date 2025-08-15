@@ -46,7 +46,7 @@ C – Restart game (after losing)<br>
 
 ---
 
-##💡 Future Ideas<br>
+## 💡 Future Ideas<br>
 Smooth RGB animation effect for the snake.<br>
 High score tracking.<br>
 Sound effects and background music.<br>
