@@ -24,48 +24,48 @@ cd neon-snake-game
 
 ---
 
-2. Install Dependencies
+2. Install Dependencies<br>
 Make sure you have Python 3.x installed, then:
 
-pip install pygame
+```bash pip install pygame```
 
 ---  
 
-3. ▶ How to Play
-Run the game:
+3. ▶ How to Play<br>
+Run the game:<br><br>
 
-python neon_snake.py
+python neon_snake.py<br><br>
 
-Controls:
-⬅ Left Arrow – Move left
-➡ Right Arrow – Move right
-⬆ Up Arrow – Move up
-⬇ Down Arrow – Move down
-Q – Quit game (after losing)
-C – Restart game (after losing)
+Controls:<br>
+⬅ Left Arrow – Move left<br>
+➡ Right Arrow – Move right<br>
+⬆ Up Arrow – Move up<br>
+⬇ Down Arrow – Move down<br>
+Q – Quit game (after losing)<br>
+C – Restart game (after losing)<br>
 
 ---
 
-4.💡 Future Ideas
-Smooth RGB animation effect for the snake.
-High score tracking.
-Sound effects and background music.
+4.💡 Future Ideas<br>
+Smooth RGB animation effect for the snake.<br>
+High score tracking.<br>
+Sound effects and background music.<br>
 Different difficulty levels.
 
 ---
 
-5. 🛠 Tech Stack
-Python 3
+5. 🛠 Tech Stack<br>
+Python 3<br>
 Pygame
 
 ---
 
-7. 📜 License
+7. 📜 License<br>
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
-8. 🙌 Acknowledgments
-Inspired by the original Snake game.
+8. 🙌 Acknowledgments<br>
+Inspired by the original Snake game.<br>
 Thanks to the Pygame community for making game dev in Python so much fun!
 
